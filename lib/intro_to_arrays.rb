@@ -19,5 +19,5 @@ def last_element(array)
 end
 
 def first_element_with_array_method
-  return array.pop
+  array.shift
 end
